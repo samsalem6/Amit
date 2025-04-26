@@ -10,3 +10,5 @@ Machine Learning.
 ## Getting Started
 To get started with this project, clone the repository and 
 navigate to the `python-for-ml` folder.
+## Script File
+`script.py` Scripts For Machine Learning. 
