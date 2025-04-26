@@ -11,4 +11,4 @@ Machine Learning.
 To get started with this project, clone the repository and 
 navigate to the `python-for-ml` folder.
 ## Script File
-`script.py` Scripts For Machine Learning <a href="/Amit/python-for-ml/script.py">script.py</a>.
+`script.py` Scripts For Machine Learning <a href="/python-for-ml/script.py">script.py</a>.
